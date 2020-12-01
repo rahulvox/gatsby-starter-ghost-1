@@ -3,7 +3,7 @@ module.exports = {
 
     postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-    siteTitleMeta: `Dadsena`, // This allows an alternative site title for meta data for pages.
+    siteTitleMeta: `Home`, // This allows an alternative site title for meta data for pages.
     siteDescriptionMeta: `Advancing Technology, Art & Leadership`, // This allows an alternative site description for meta data for pages.
 
     shareImageWidth: 1000, // Change to the width of your default share image
